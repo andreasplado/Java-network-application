@@ -1,0 +1,17 @@
+<!DOCTYPE project>
+<ivy-module version="2.0">
+	<info organisation="" module="" />
+	<configurations defaultconf="default" />
+	<dependencies>
+		<dependency org="javax.servlet" name="servlet-api" rev="2.5" />
+
+		<dependency org="commons-pool" name="commons-pool" rev="20030825.183949" />
+		<dependency org="commons-dbcp" name="commons-dbcp" rev="20030825.184428" />
+		<dependency org="commons-collections" name="commons-collections" rev="20040616" />
+		<dependency org="commons-dbutils" name="commons-dbutils" rev="1.5" />
+		<dependency org="org.hsqldb" name="hsqldb" rev="2.3.0" />
+		<dependency org="jstl" name="jstl" rev="1.2" />
+
+		<dependency org="org.apache.ant" name="ant" rev="1.9.2" />
+	</dependencies>
+</ivy-module>

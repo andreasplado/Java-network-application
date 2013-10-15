@@ -1,0 +1,9 @@
+/build
+/bin
+/.git
+
+*.class
+*.war
+*.jar
+
+!/lib/*.jar
