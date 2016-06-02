@@ -1,4 +1,4 @@
-# i377
+# Java network application
 Kodutoo 
 
 Tegemist on ITK projektiga võrgurakendused Java baasil.
