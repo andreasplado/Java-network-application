@@ -1,5 +1,5 @@
 # Java network application
-Kodutoo 
+Homework
 
-Tegemist on ITK projektiga võrgurakendused Java baasil.
-Kasutatud on Servlete ja JSP-si
+It is project made in school in subject Java network applications.
+Servlets and JSP-s are used in there
