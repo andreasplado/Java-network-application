@@ -1,4 +1,4 @@
-# Java network application
+# java servlet example
 Homework
 
 It is project made in school in subject Java network applications.
